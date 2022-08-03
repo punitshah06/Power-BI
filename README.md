@@ -5,3 +5,5 @@ This repository will serve as my learnings of Power BI
 <h3>Time Intelligence Functions</h3>
 <h3>Awesome Lists</h3>
 1. <a href="https://github.com/NajiElKotob/Awesome-Power-BI">Awesome List by Naji El Kotob</a>
+<h3>Power BI development </h3>
+1. Awesome list by Rulikkk (https://github.com/Rulikkk/awesome-power-bi)
