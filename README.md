@@ -2,6 +2,7 @@
 This repository will serve as my learnings of Power BI
 # Best Practices in Power BI
 - [Optimize Power BI performance](https://www.tessellationtech.io/optimizing-power-bi-reports/#:~:text=The%20fastest%20way%20to%20optimize%20your%20Power%20BI,used%20in%20any%20of%20your%20reports%20or%20calculations.)
+- [Custom Calendar table for time intelligence functions](https://foresightbi.com.ng/microsoft-power-bi/creating-a-custom-calendar-table-in-power-bi/)
 # Awesome Lists 
 -[Awesome List by Naji El Kotob](https://github.com/NajiElKotob/Awesome-Power-BI)
 # Power BI development
