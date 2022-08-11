@@ -12,4 +12,4 @@ This repository will serve as my learnings of Power BI
 - [Dynamically remove Blank Columns](https://www.youtube.com/watch?v=qISofEEo7wo&ab_channel=HowtoPowerBI)
 # Best Visualization Practices
 - [Choose best visualizations](https://ft-interactive.github.io/visual-vocabulary/)
-#How to manage a Business Intelligence Project
+# How to manage a Business Intelligence Project
