@@ -27,6 +27,7 @@ This repository will serve as my learnings of Power BI
 - Error Handling and Defect Log maintenance.(Version Control)
 # Creative solutions and UI/UX
 - [Background and formatting](https://alluringbi.com/2019/10/21/background-concepts-for-power-bi/)
+- [Colour theory](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/)
 # Tools
 * [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter) - DAX Formatter is a free tool by SQLBI that transform raw DAX formulas into clean, beautiful and readable code.
 * [DAX Studio](https://www.sqlbi.com/tools/dax-studio/) - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Designer, Power Pivot for Excel, and Analysis Services Tabular.
