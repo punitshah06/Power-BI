@@ -7,3 +7,5 @@ This repository will serve as my learnings of Power BI
 1. <a href="https://github.com/NajiElKotob/Awesome-Power-BI">Awesome List by Naji El Kotob</a>
 <h3>Power BI development </h3>
 1. Awesome list by Rulikkk (https://github.com/Rulikkk/awesome-power-bi)
+# Best ETL Practices
+## Dynamically remove Blank Columns(https://www.youtube.com/watch?v=qISofEEo7wo&ab_channel=HowtoPowerBI)
