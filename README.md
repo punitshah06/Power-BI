@@ -9,4 +9,4 @@ This repository will serve as my learnings of Power BI
 1. Awesome list by Rulikkk (https://github.com/Rulikkk/awesome-power-bi)
 
 # Best ETL Practices
-## Dynamically remove Blank Columns(https://www.youtube.com/watch?v=qISofEEo7wo&ab_channel=HowtoPowerBI)
+- [Dynamically remove Blank Columns](https://www.youtube.com/watch?v=qISofEEo7wo&ab_channel=HowtoPowerBI)
