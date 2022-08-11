@@ -40,5 +40,8 @@ This repository will serve as my learnings of Power BI
 * [Tabular Editor](https://github.com/TabularEditor/tabulareditor.github.io) - Tabular Editor provides an intuitive hierarchical view of every object in your Tabular Model metadata. 
     * [Tabular Editor Rocks!](https://powerbi.tips/2020/04/tabular-editor-rocks/) - Mike Carlo
 # Power BI Functions
-## Time Intelligence Functions
-- [list of all time intelligence functions](https://docs.microsoft.com/en-us/dax/time-intelligence-functions-dax)
+- [Time Intelligence Functions](https://docs.microsoft.com/en-us/dax/time-intelligence-functions-dax)
+- [Parent Child Functions](https://docs.microsoft.com/en-us/dax/parent-and-child-functions-dax)
+# Power BI Features
+- [Drill through feature](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-drillthrough)
+- [Row Level Security feature](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-drillthrough)
