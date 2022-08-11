@@ -13,3 +13,15 @@ This repository will serve as my learnings of Power BI
 # Best Visualization Practices
 - [Choose best visualizations](https://ft-interactive.github.io/visual-vocabulary/)
 # How to manage a Business Intelligence Project
+# Tools
+* [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter) - DAX Formatter is a free tool by SQLBI that transform raw DAX formulas into clean, beautiful and readable code.
+* [DAX Studio](https://www.sqlbi.com/tools/dax-studio/) - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Designer, Power Pivot for Excel, and Analysis Services Tabular.
+* [VertiPaq Analyzer](https://www.sqlbi.com/tools/vertipaq-analyzer/) - A useful tool to analyze VertiPaq storage structures for a data model in Analysis Services Tabular.
+* [Power BI Helper](http://radacad.com/power-bi-helper) 
+* [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
+* [Power BI Data Connection file PBIDS](https://connections.powerbi.tips/)
+* [Coolors](https://coolors.co/) - The super fast color schemes generator.
+* [Online Image Color Picker](https://pinetools.com/image-color-picker) 
+* [Palettes and Theme Generator tool](https://gallery.powerbi.tips/) - powerbi.tips
+* [Tabular Editor](https://github.com/TabularEditor/tabulareditor.github.io) - Tabular Editor provides an intuitive hierarchical view of every object in your Tabular Model metadata. 
+    * [Tabular Editor Rocks!](https://powerbi.tips/2020/04/tabular-editor-rocks/) - Mike Carlo
