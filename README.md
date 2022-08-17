@@ -10,6 +10,7 @@ This repository will serve as my learnings of Power BI
 
 # Best ETL Practices
 - [Dynamically remove Blank Columns](https://www.youtube.com/watch?v=qISofEEo7wo&ab_channel=HowtoPowerBI)
+- [Power Query RUnning Count](https://www.youtube.com/watch?v=camNMc1zaBc)
 # Best Visualization Practices
 - [Choose best visualizations](https://ft-interactive.github.io/visual-vocabulary/)
 # How to manage a Business Intelligence Project
