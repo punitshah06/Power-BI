@@ -11,6 +11,7 @@ This repository will serve as my learnings of Power BI
 # Best ETL Practices
 - [Dynamically remove Blank Columns](https://www.youtube.com/watch?v=qISofEEo7wo&ab_channel=HowtoPowerBI)
 - [Power Query Running Count](https://www.youtube.com/watch?v=camNMc1zaBc)
+- [Use Inactive Relationship in measure](https://hatfullofdata.blog/power-bi-using-inactive-relationships-in-a-measure/#:~:text=%20Power%20BI%20%E2%80%93%20Using%20inactive%20relationships%20in,is%20a%20powerful%20addition%20to%20your...%20More%20)
 # Best Visualization Practices
 - [Choose best visualizations](https://ft-interactive.github.io/visual-vocabulary/)
 # How to manage a Business Intelligence Project
