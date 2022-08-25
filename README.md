@@ -68,6 +68,7 @@ This repository will serve as my learnings of Power BI
 
 - [Time Intelligence Functions](https://docs.microsoft.com/en-us/dax/time-intelligence-functions-dax)
 - [Parent Child Functions](https://docs.microsoft.com/en-us/dax/parent-and-child-functions-dax)
+- [ Relationship Functions](https://docs.microsoft.com/en-us/dax/relationship-functions-dax)
 
 # Power BI Features
 
